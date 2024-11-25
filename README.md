@@ -26,3 +26,15 @@ Rezultate Obţinute
 
 
 Concluzii
+
+
+
+Cod sursă și alte resurse ce trebuie să existe pe GitHub
+
+
+
+Jurnal
+
+
+
+Bibliografie/Resurse
