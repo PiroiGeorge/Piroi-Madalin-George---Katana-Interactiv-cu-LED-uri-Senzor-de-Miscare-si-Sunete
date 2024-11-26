@@ -1,7 +1,7 @@
-# Piroi-Madalin-George---Katana-Interactiv-cu-LED-uri-Senzor-de-Miscare-si-Sunete
+# Piroi-Madalin-George---Katana-Interactiva
 
 Introducere
-
+Katana interactiva cu LED-uri,senzor-de-Miscare.Aceasta va avea un buton de pornire cae activeaza led-urile la o apasare scurta.Daca miscam katana led-urile isi vor schimab culoare.La o apasare mai lunga de buton va incepe un joc de lumini.
 
 
 
