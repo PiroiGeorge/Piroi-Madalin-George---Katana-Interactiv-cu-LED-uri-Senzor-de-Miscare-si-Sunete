@@ -7,7 +7,14 @@ Introducere
 
 Descriere generală
 
-Katana interactiva cu LED-uri,senzor-de-Miscare.Aceasta va avea un buton de pornire cae activeaza led-urile la o apasare scurta.Daca miscam katana led-urile isi vor schimab culoare.La o apasare mai lunga de buton va incepe un joc de lumini.
+An interactive katana project that blends modern technology with traditional design, powered by an Arduino Nano and a WS2812B LED strip. The katana will display dynamic lighting effects activated by motion, using a gyro/accelerometer sensor for precise movement detection. It will feature a button and other functionalities to enhance its interactivity. Powered by a 9V battery, the katana will be coated with epoxy resin for durability.
+
+
+
+
+
+
+
 
 
 Hardware Design
