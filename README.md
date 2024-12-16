@@ -31,7 +31,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 ---
 
-### **Connections**
+### **Connections**/**electrical diagram**
 
 #### **1. Power Connections**
 - **9V Battery**:
@@ -58,7 +58,6 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 ---
 
-## **BOM (Bill of Materials)**
 
 ### **Bill of Materials (BOM)**
 
@@ -77,22 +76,42 @@ The interactive katana uses a combination of hardware components to achieve a re
 5. **9V Battery + Connector**  
    - **Quantity**: 1  
 
+**Bloc diagram**
+
+          +-----------------+
+          |  9V Battery     |
+          |  (Power Source) |
+          +-----------------+
+                    |
+           ----------------------
+           |                    |
+  +--------v--------+           |
+  |  Arduino Nano   |<----------+
+  | (Microcontroller)| 
+  +--------+--------+
+           |        
+   +-------v--------+        
+   |  Push Button   |        
+   | (Mode Control) |        
+   +----------------+        
+           |                    
+   +-------v--------+        
+   | WS2812B LED    |        
+   |   Strip        |        
+   +----------------+        
+           |                    
+   +-------v--------+        
+   | MPU-6050       |        
+   | (Gyro/Accel)   |        
+   +----------------+        
+
 
 
 ## **Software Design**
 
-1. **LED Control**:  
-   The **FastLED** library is used to control the WS2812B LED strip. The LEDs change colors and patterns based on:
-   - Button input (e.g., static mode, special patterns).
-   - Tilt or movement detection from the MPU-6050 sensor.
 
-2. **Motion Detection**:  
-   The **MPU-6050** sensor communicates via I2C and detects:
-   - **Sharp movements** (slashes): Trigger dynamic LED effects.
-   - **Tilt detection**: Controls how many LEDs light up based on the angle of the katana.
 
-3. **Button Input**:
-   -
+
 
 ---
 
