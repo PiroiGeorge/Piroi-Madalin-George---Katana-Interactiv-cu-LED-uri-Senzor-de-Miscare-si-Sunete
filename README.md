@@ -144,8 +144,11 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 ## **Bibliografie/Resurse**
 [ARDUINO NANO.pdf](https://github.com/user-attachments/files/18157635/ARDUINO.NANO.pdf)
+
 [MOD-MPU6050 (1).pdf](https://github.com/user-attachments/files/18157645/MOD-MPU6050.1.pdf)
+
 [Conex](https://www.conexelectronic.r/)
+
 [eMAG]([Conex](https://www.conexelectronic.r/))
 
 
