@@ -78,15 +78,19 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 **Bloc diagram**
 
-  +-----------------+
-  |  9V Battery     |
-  |  (Power Source) |
-  +-----------------+
-  |                 |
-  ----------------------
-  |                   |
-  +--------v--------+ |
-  |  Arduino Nano    |<+
+
+
+```text
+          +-----------------+
+          |  9V Battery     |
+          |  (Power Source) |
+          +-----------------+
+                    |
+           ----------------------
+           |                    |
+  +--------v--------+           |
+  |  Arduino Nano   |<----------+
+  | (Microcontroller)| 
   +--------+--------+
            |        
    +-------v--------+        
@@ -103,6 +107,7 @@ The interactive katana uses a combination of hardware components to achieve a re
    | MPU-6050       |        
    | (Gyro/Accel)   |        
    +----------------+        
+
 
 
 
