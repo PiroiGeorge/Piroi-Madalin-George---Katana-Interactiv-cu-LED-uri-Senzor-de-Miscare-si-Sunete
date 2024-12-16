@@ -107,7 +107,7 @@ The interactive katana uses a combination of hardware components to achieve a re
    | MPU-6050       |        
    | (Gyro/Accel)   |        
    +----------------+        
-
+```
 
 
 
@@ -153,5 +153,3 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 
 ---
-
-Let me know if you need further refinements or additional sections! 😊
