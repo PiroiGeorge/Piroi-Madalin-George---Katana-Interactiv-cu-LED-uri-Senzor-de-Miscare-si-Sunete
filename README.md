@@ -149,7 +149,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 [Conex](https://www.conexelectronic.r/)
 
-[eMAG]([Conex](https://www.conexelectronic.r/))
+[eMAG]([https://www.conexelectronic.r/](https://www.emag.ro/))
 
 
 
