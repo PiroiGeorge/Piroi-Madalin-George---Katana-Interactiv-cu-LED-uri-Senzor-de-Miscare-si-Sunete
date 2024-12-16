@@ -87,7 +87,7 @@ The interactive katana uses a combination of hardware components to achieve a re
   |                   |
   |
   +--------v--------+ |
-  |  Arduino Nano   |<+
+  |  Arduino Nano    |<+
   | (Microcontroller)| 
   +--------+--------+
            |        
