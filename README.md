@@ -78,15 +78,16 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 **Bloc diagram**
 
-          +-----------------+
-          |  9V Battery     |
-          |  (Power Source) |
-          +-----------------+
-                    |
-           ----------------------
-           |                    |
-  +--------v--------+           |
-  |  Arduino Nano   |<----------+
+  +-----------------+
+  |  9V Battery     |
+  |  (Power Source) |
+  +-----------------+
+  |                 |
+  ----------------------
+  |                   |
+  |
+  +--------v--------+ |
+  |  Arduino Nano   |<+
   | (Microcontroller)| 
   +--------+--------+
            |        
